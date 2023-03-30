@@ -1,0 +1,1 @@
+for start the bot vinted,you start botvinted.py and you go on bots and add token aminid and enjoy 
